@@ -25,10 +25,6 @@ Execute the C Program for the desired output.
 
 ```
 
-
-/*
- * sem.c - Producer-Consumer using Semaphores
- */
 #include <stdio.h>      
 #include <stdlib.h>     
 #include <unistd.h>     
